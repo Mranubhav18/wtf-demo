@@ -1,3 +1,3 @@
 # wtf-demo
 first repository
-owner - anubhav tiwari
+Author - anubhav tiwari
